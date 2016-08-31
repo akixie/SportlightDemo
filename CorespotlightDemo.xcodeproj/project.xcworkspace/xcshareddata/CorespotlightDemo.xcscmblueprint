@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "23BF4FF070C5F341CC4A56C36EA4850943F4EBBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "22A5F50EEFC128ACFA9512B33B660F78CDB59AE6" : 0,
+    "23BF4FF070C5F341CC4A56C36EA4850943F4EBBC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B42D651-4757-4C33-AF3B-6324DF5E47FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "22A5F50EEFC128ACFA9512B33B660F78CDB59AE6" : "CoreSpotlight",
+    "23BF4FF070C5F341CC4A56C36EA4850943F4EBBC" : "SportlightDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CorespotlightDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CorespotlightDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/cocoonjin%2540gmail.com@github.com\/CocoonJin\/CoreSpotlight.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22A5F50EEFC128ACFA9512B33B660F78CDB59AE6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akixie\/SportlightDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23BF4FF070C5F341CC4A56C36EA4850943F4EBBC"
+    }
+  ]
+}
