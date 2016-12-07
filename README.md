@@ -1,11 +1,11 @@
 # SportlightDemo
 
-App内容匹配
-iphone手机搜索关键字内容匹配，
+App内容匹配，手机搜索关键字内容匹配，
+
 iOS 9 CoreSpotlight SearchKit 代码示例，
 
+# PS: 参考网络技术文章修改搭建。
 
-## 学习过程中如果你喜欢的话，可以Star收藏便于后用
 
 ### GIF效果预览如下：
 
