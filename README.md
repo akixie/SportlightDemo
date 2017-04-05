@@ -10,4 +10,4 @@ iOS 9 CoreSpotlight SearchKit 代码示例，
 ### GIF效果预览如下：
 
 ![预览]
-(https://github.com/akixie/SportlightDemo/blob/master/get_service.gif)
+(https://github.com/akixie/SportlightDemo/blob/master/get_service.gif?raw=true)
